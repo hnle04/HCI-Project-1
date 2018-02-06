@@ -1,0 +1,23 @@
+#topContainer {
+    background: pink;
+}
+
+#bottomContainer {
+    background: white;
+}
+
+#leftContainer {
+    background: green;
+    width: 50%;
+}
+
+#rightContainer {
+    background: yellow;
+    width: 50%;
+
+}
+
+#form-group-row {
+    align-content: center;
+}
+
